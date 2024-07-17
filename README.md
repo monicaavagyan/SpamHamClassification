@@ -1,4 +1,4 @@
-# Spam Mail Classification /EN
+# Spam Mail Classification 
 ![Web page visual](image.png)
 
 ## Description
